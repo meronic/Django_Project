@@ -1,1 +1,2 @@
-Django CRUD
+대학과제용
+
